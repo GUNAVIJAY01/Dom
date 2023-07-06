@@ -1,0 +1,9 @@
+@media (max-width:576px){
+.res{
+	margin-bottom:7rem;
+}}
+@media (min-width:576px) and (max-width:992px){
+.res{
+	margin-bottom:5rem;
+}
+}
